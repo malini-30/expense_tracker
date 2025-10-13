@@ -49,7 +49,7 @@ for persistence.
 2.  Run the program:
 
     ``` bash
-    python expense_tracker.py
+    python python expense_tracker.py
     ```
 
 3.  Use the menu to add, view, and report expenses.
